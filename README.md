@@ -1,6 +1,5 @@
 # 👩🏽‍💻 About Me:
  ~ Studentessa di Informatica presso l'Università di TorVergata<br>
-<img src="assets/emoji.png" alt="emoji-personalizzata" width="120"/>
 
 
 # 💻 Tech Stack:
