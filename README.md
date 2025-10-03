@@ -1,12 +1,14 @@
 # 👩🏽‍💻 About Me:
 
 <div style="display: flex; flex-direction: row;">
-  <img alt="Avatar" src="https://github.com/user-attachments/assets/25721859-89d2-4bd8-b09a-d88c65d62375" width="200"/>
+  <div>
+    <img alt="Avatar" src="https://github.com/user-attachments/assets/25721859-89d2-4bd8-b09a-d88c65d62375" width="200"/>
+  </div>
   <div>
     <h3>Ciao 👋🏼 </h3>
     <p>
       Benvenuto nel mio profilo GitHub! <br/>
-      Mi chiamo Giorgia e sono una Studentessa di Informatica presso l'Università di        TorVergata<br>
+      Mi chiamo Giorgia e sono una Studentessa di Informatica presso l'Università di              TorVergata<br>
       Qui troverai i miei progetti ✨
     </p>
   </div>
