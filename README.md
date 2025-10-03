@@ -1,7 +1,7 @@
 # 👩🏽‍💻 About Me:
  ~ Studentessa di Informatica presso l'Università di TorVergata<br>
 
- <img src="./assets/avatar.gif" alt="Avatar" width="200"/>
+ <img src="./Desktop/Readme/Avatar.gif" alt="Avatar" width="200"/>
 
 
 # 💻 Tech Stack:
