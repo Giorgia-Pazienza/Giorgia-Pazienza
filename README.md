@@ -1,7 +1,7 @@
 # 👩🏽‍💻 About Me:
- ~ Studentessa di Informatica presso l'Università di TorVergata<br>
+ Ciaoo, mi chiamo Giorgia e sono una Studentessa di Informatica presso l'Università di TorVergata<br>
 
-<img width="1024" height="1024" alt="Avatar" src="https://github.com/user-attachments/assets/25721859-89d2-4bd8-b09a-d88c65d62375" width="200"/>
+<img width="1024" height="1024" alt="Avatar" src="https://github.com/user-attachments/assets/25721859-89d2-4bd8-b09a-d88c65d62375" width="50"/>
 
 
 # 💻 Tech Stack:
