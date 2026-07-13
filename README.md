@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
         <tr>
                 <td style="border: none;">
-                        ![video](GIF.mov)
+                        <video src="./GIF.mov" controls width="200"></video>
                 </td>
                 <td style="border: none;">
                         <p> Benvenuto nel mio profilo GitHub! <br/>
