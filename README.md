@@ -3,7 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
         <tr>
                 <td style="border: none;">
-                        <img alt="Avatar" src="https://github.com/user-attachments/assets/25721859-89d2-4bd8-b09a-d88c65d62375" width="200px"/>
+                        ![Demo](GIF.gif)
                 </td>
                 <td style="border: none;">
                         <p> Benvenuto nel mio profilo GitHub! <br/>
