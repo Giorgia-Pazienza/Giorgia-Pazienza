@@ -3,8 +3,7 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
         <tr>
                 <td style="border: none;">
-                        https://github.com/user-attachments/assets/ef492ee5-366f-4270-9b7c-c3e4cb118e88
-
+                        <video src="https://github.com/user-attachments/assets/ef492ee5-366f-4270-9b7c-c3e4cb118e88" width="100%" controls></video>
                 </td>
                 <td style="border: none;">
                         <p> Benvenuto nel mio profilo GitHub! <br/>
